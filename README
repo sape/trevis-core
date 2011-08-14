@@ -1,0 +1,6 @@
+This is core of the Trevis tree visualization library.
+
+You also need the user interface part (either trevis-swing or trevis-swt)
+and the util library.
+
+For more information, visit http://sape.inf.usi.ch/trevis
